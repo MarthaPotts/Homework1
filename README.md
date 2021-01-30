@@ -31,7 +31,7 @@
 
     * description
     * screeenshot
-    *link to deployed URL
+    *[link to deployed URL](https://marthapotts.github.io/Homework1/)
 
 #### Required to Submit (to Bootcamp)
 
